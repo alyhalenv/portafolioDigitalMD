@@ -95,6 +95,10 @@ La inferencia es el proceso por el cual se obtienen conclusiones a partir de pre
 
 # - Traducción de lenguaje natural a simbólico  
 
+## Para ingresar a los ejercicios realizados, porfavor ingrese en el siguiente link:
+
+https://drive.google.com/drive/u/0/folders/1ukdw3t2AIIS-Uab9xmbhxQVDpfOSxwo1
+
 ---
 
 # - Construcción de tablas de verdad  
@@ -130,11 +134,20 @@ https://drive.google.com/drive/u/0/folders/1oZ1RRswqEN3ZWORaTvweOBMnptJpX8Wo
 
 # - Validación de argumentos  
 
+## Para ingresar a los ejercicios realizados, porfavor ingrese en el siguiente link:
 
+https://drive.google.com/drive/u/0/folders/1ukdw3t2AIIS-Uab9xmbhxQVDpfOSxwo1
+
+---
 
 
 # 3. 🧠 Ejercicio aplicado (caso real o cotidiano)
 
+## Para ingresar a los ejercicios realizados, porfavor ingrese en el siguiente link:
+
+https://drive.google.com/drive/u/0/folders/1ukdw3t2AIIS-Uab9xmbhxQVDpfOSxwo1
+
+---
 
 # 4.  🔍 Reflexión personal
 Responder:
