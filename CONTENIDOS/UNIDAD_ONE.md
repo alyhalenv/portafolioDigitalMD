@@ -37,17 +37,13 @@ Las proposiciones se clasifican según su estructura y complejidad:
 # C. CONECTORES LÓGICOS
 Son operadores que permiten modificar o combinar proposiciones simples para crear estructuras más complejas.
 
-| Conector | Símbolo | Ejemplo Técnico |
-| :--- | :---: | :--- |
-| **Negación** | $\neg$ | $\neg p$ (No p) |
-| **Conjunción** | $\wedge$ | $p \wedge q$ (p y q) |
-| **Disyunción** | $\vee$ | $p \vee q$ (p o q) |
-| **Condicional** | $\rightarrow$ | $p \rightarrow q$ (Si p entonces q) |
-| **Bicondicional** | $\leftrightarrow$ | $p \leftrightarrow q$ (p si y solo si q) |
-
-**Ejemplo simple:** "Si estudio ($p$), entonces aprobaré ($q$)".
-
-
+| Operación | Símbolo | Significado | Ejemplo Simple |
+| :--- | :---: | :--- | :--- |
+| **Negación** | ¬ | "No" | No está lloviendo. |
+| **Conjunción** | ∧ | "Y" | Como y duermo. |
+| **Disyunción** | ∨ | "O" | Té o café. |
+| **Condicional** | → | "Si... entonces" | Si llueve, me mojo. |
+| **Bicondicional** | ↔ | "Si y solo si" | Entras si tienes entrada. |
 
 ---
 
