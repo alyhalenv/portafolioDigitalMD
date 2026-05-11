@@ -1,69 +1,55 @@
-<div align="center">
-
-# 📘 PRIMERA UNIDAD: LÓGICA MATEMÁTICA
-
----
-## 1. 📖 Resumen Teórico
-
-### 🔹 Definición de Proposición
-Es una unidad de pensamiento que comunica un sentido completo y puede ser catalogada como **Verdadera (V)** o **Falsa (F)**. En nuestro estudio, utilizamos ejemplos clásicos para probar reglas:
-* **p:** "Algún hombre es caballo" (F)
-* **q:** "El hombre es piedra" (F)
-
-
-
-### 🔹 Tipos de Proposiciones
-* **Simples:** No tienen conectores (ej. "El hombre es piedra").
-* **Compuestas:** Unión de dos o más proposiciones mediante conectores (ej. "El hombre es piedra **y** algún hombre es caballo").
-
-### 🔹 Conectores Lógicos
-Son los símbolos que determinan la operación matemática entre las proposiciones:
-
-| Conector | Símbolo | Ejemplo Técnico |
-| :--- | :---: | :--- |
-| **Negación** | $\neg$ | $\neg p$ (No p) |
-| **Conjunción** | $\wedge$ | $p \wedge q$ (p y q) |
-| **Disyunción** | $\vee$ | $p \vee q$ (p o q) |
-| **Condicional** | $\rightarrow$ | $p \rightarrow q$ (Si p entonces q) |
-| **Bicondicional** | $\leftrightarrow$ | $p \leftrightarrow q$ (p si y solo si q) |
-
-
-
-### 🔹 Tablas de Verdad
-Son herramientas para determinar el valor de verdad de una proposición compuesta bajo todas las combinaciones posibles. 
-
-* **Análisis del Núcleo (Copulativa Negativa):** En mi defensa, utilizo la negación de la conjunción $\neg(p \wedge q)$. Esta solo es falsa cuando ambos componentes son verdaderos.
-
-| $p$ | $q$ | $p \wedge q$ | $\neg(p \wedge q)$ |
-| :---: | :---: | :---: | :---: |
-| V | V | V | **F** |
-| V | F | F | **V** |
-| F | V | F | **V** |
-| F | F | F | **V** |
-
-
-
-[Image of truth table for NAND gate logic]
-
-
-### 🔹 Principales Leyes Lógicas
-Las leyes nos permiten simplificar procesos. La más importante para este análisis es la **Ley de De Morgan**:
-> $\neg(p \wedge q) \equiv \neg p \vee \neg q$
-*(La negación de una "y" equivale a una "o" de las partes negadas).*
-
-
-
-[Image of De Morgan's Laws diagrams]
-
-
-### 🔹 Reglas de Inferencia
-Son los "pasos" legales para llegar a una conclusión:
-1. **Modus Ponens:** $[(p \rightarrow q) \wedge p] \rightarrow q$
-2. **Modus Tollens:** $[(p \rightarrow q) \wedge \neg q] \rightarrow \neg p$
-3. **Silogismo Disyuntivo:** $[(p \vee q) \wedge \neg p] \rightarrow q$
+# 🎓 PORTAFOLIO DE LÓGICA MATEMÁTICA - UNIDAD 1
 
 
 
 ---
-**Declaración de Autoría:**
+
+# 1. DEFINICIÓN DE PROPOSICIÓN
+Una proposición es el elemento fundamental de la lógica. Se define como una oración declarativa de la cual podemos afirmar, sin ambigüedad, que es **Verdadera (V)** o **Falsa (F)**. En computación, este concepto se conoce como *bit* (1 o 0).
+
+**Teoría adicional:** Para que una expresión sea proposición, debe tener un valor de verdad objetivo. Las preguntas, órdenes o exclamaciones no se consideran proposiciones porque no pueden ser calificadas como verdaderas o falsas.
+
+**Ejemplos simples:**
+* **p:** "Hoy es lunes". (Proposición)
+* **q:** "El número 10 es par". (Proposición)
+* **r:** "¿Cómo estás?". (NO es proposición)
+
+
+
+---
+
+# 2. TIPOS DE PROPOSICIONES
+Las proposiciones se clasifican según su estructura y complejidad:
+
+* **Proposiciones Simples (Atómicas):** Son aquellas que expresan una sola idea y no tienen conectores lógicos.
+  * *Ejemplo:* "El cielo es azul".
+* **Proposiciones Compuestas (Moleculares):** Son el resultado de unir dos o más proposiciones simples mediante enlaces lógicos. Su valor de verdad depende de los conectores utilizados.
+  * *Ejemplo:* "El cielo es azul **y** está lloviendo".
+
+
+
+---
+
+# 3. CONECTORES LÓGICOS
+Son operadores que permiten modificar o combinar proposiciones simples para crear estructuras más complejas.
+
+| Operación | Símbolo | Significado | Explicación Teórica |
+| :--- | :---: | :--- | :--- |
+| **Negación** | $\neg$ | "No" | Cambia el valor de verdad al opuesto. |
+| **Conjunción** | $\wedge$ | "Y" | Solo es verdadera si AMBAS partes son verdaderas. |
+| **Disyunción** | $\vee$ | "O" | Es verdadera si al menos una parte es verdadera. |
+| **Condicional** | $\rightarrow$ | "Si... entonces" | Indica una relación de causa y efecto. |
+| **Bicondicional** | $\leftrightarrow$ | "Si y solo si" | Es verdadera solo si ambos tienen el mismo valor. |
+
+**Ejemplo simple:** "Si estudio ($p$), entonces aprobaré ($q$)".
+
+
+
+---
+
+# 4. TABLAS DE VERDAD
+Es un método mecánico para determinar el valor de verdad de una proposición compuesta. Dependiendo del resultado final, se clasifican en:
+
+* **Tautología:** El resultado final es siempre Verdadero.
+* **Contradicción:** El resultado final es siempre
 *Análisis lógico realizado de forma autónoma por el estudiante. IA utilizada (Gemini) únicamente para soporte en la estructuración del formato Markdown.*
