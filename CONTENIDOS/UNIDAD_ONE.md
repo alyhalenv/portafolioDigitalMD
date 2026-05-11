@@ -1,14 +1,8 @@
 <div align="center">
 
-# 📘 PRIMERA UNIDAD: Fundamentos de Algoritmos y Programas
+# 📘 PRIMERA UNIDAD: LÓGICA MATEMÁTICA
 
 ---
-# 🎓 Portafolio de Lógica Matemática - Unidad 1
-
-Este portafolio recopila los fundamentos de la lógica proposicional y su aplicación técnica, tomando como referencia el análisis del pensamiento lógico formal.
-
----
-
 ## 1. 📖 Resumen Teórico
 
 ### 🔹 Definición de Proposición
