@@ -55,4 +55,4 @@ Es un método mecánico para determinar el valor de verdad de una proposición c
 
 * **Tautología:** El resultado final es siempre Verdadero.
 * **Contradicción:** El resultado final es siempre
-*Análisis lógico realizado de forma autónoma por el estudiante. IA utilizada (Gemini) únicamente para soporte en la estructuración del formato Markdown.*
+  <img width="677" height="421" alt="image" src="https://github.com/user-attachments/assets/2c2de455-ec70-4568-964a-7b7a03780dca" />
