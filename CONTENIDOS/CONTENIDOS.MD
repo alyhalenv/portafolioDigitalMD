@@ -13,8 +13,8 @@ Consolidar el aprendizaje de lógica proposicional mediante la elaboración de u
 
 ---
 
-BIBLIOGRAFÍA DEL PORTAFOLIO:
-Mario E Cueva H. (2026). Introducción a la Lógica [Diapositivas]. Entorno Virtual de Aprendizaje (EVA).
+## BIBLIOGRAFÍA DEL PORTAFOLIO:
+### Mario E Cueva H. (2026). Introducción a la Lógica [Diapositivas]. Entorno Virtual de Aprendizaje (EVA).
 
 
 <div align="center">
