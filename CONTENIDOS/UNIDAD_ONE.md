@@ -10,7 +10,7 @@
 # 1. DEFINICIÓN DE PROPOSICIÓN
 Una proposición es el elemento fundamental de la lógica. Se define como una oración declarativa de la cual podemos afirmar, sin ambigüedad, que es **Verdadera (V)** o **Falsa (F)**. En computación, este concepto se conoce como *bit* (1 o 0).
 
-**Teoría adicional:** Para que una expresión sea proposición, debe tener un valor de verdad objetivo. Las preguntas, órdenes o exclamaciones no se consideran proposiciones porque no pueden ser calificadas como verdaderas o falsas.
+Para que una expresión sea proposición, debe tener un valor de verdad objetivo. Las preguntas, órdenes o exclamaciones no se consideran proposiciones porque no pueden ser calificadas como verdaderas o falsas.
 
 **Ejemplos simples:**
 * **p:** "Hoy es lunes". (Proposición)
