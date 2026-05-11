@@ -136,7 +136,7 @@ https://drive.google.com/drive/u/0/folders/14kXnYeAcwXg8xXSOQQ786jgBP-GL-Y5U
 # 3. 🧠 Ejercicio aplicado (caso real o cotidiano)
 
 
-#4.  🔍 Reflexión personal
+# 4.  🔍 Reflexión personal
 Responder:
 
 - ¿Qué fue lo más difícil de entender?
