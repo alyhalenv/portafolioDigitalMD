@@ -1,1 +1,59 @@
+# 🧠 Portafolio de Lógica Matemática - Unidad 1
 
+## 1. 📖 Resumen Teórico
+
+### 🔹 Definición de Proposición
+Una proposición es una oración declarativa que tiene un valor de verdad bien definido: o es **verdadera (V)** o es **falsa (F)**, pero no ambas a la vez. En computación, esto equivale al sistema binario (1 y 0).
+
+
+
+### 🔹 Tipos de Proposiciones
+1.  **Simples (Atómicas):** No contienen conectores lógicos.
+    * *Ejemplo:* $p$: "Algún hombre es caballo".
+2.  **Compuestas (Moleculares):** Formadas por dos o más proposiciones simples unidas por conectores.
+    * *Ejemplo:* "Algún hombre es caballo **y** el hombre es piedra".
+
+### 🔹 Conectores Lógicos
+Los conectores permiten operar con las proposiciones para formar estructuras más complejas:
+
+| Conector | Símbolo | Significado | Función |
+| :--- | :---: | :--- | :--- |
+| **Negación** | $\neg$ | "No" | Invierte el valor de verdad. |
+| **Conjunción** | $\wedge$ | "Y" | Verdadera solo si ambas son verdaderas. |
+| **Disyunción** | $\vee$ | "O" | Falsa solo si ambas son falsas. |
+| **Condicional** | $\rightarrow$ | "Si... entonces" | Falsa solo si el antecedente es V y el consecuente F. |
+| **Bicondicional** | $\leftrightarrow$ | "Si y solo si" | Verdadera si ambos valores son iguales. |
+
+
+
+### 🔹 Explicación de Tablas de Verdad
+Son representaciones gráficas que muestran todos los posibles escenarios de verdad de una proposición compuesta. Se calculan con la fórmula $2^n$ (donde $n$ es el número de proposiciones).
+
+* **Tautología:** Todo es verdadero.
+* **Contradicción:** Todo es falso.
+* **Contingencia:** Hay valores verdaderos y falsos.
+
+
+
+### 🔹 Principales Leyes Lógicas (Leyes del Álgebra de Boole)
+Permiten simplificar expresiones complejas sin alterar su valor de verdad.
+* **Leyes de De Morgan:** * $\neg(p \wedge q) \equiv \neg p \vee \neg q$ (La negación de la conjunción es la disyunción de las negaciones).
+    * $\neg(p \vee q) \equiv \neg p \wedge \neg q$
+* **Ley de Doble Negación:** $\neg(\neg p) \equiv p$.
+
+
+
+[Image of De Morgan's laws diagrams]
+
+
+### 🔹 Reglas de Inferencia
+Son esquemas lógicos que permiten llegar a una conclusión válida a partir de premisas.
+1.  **Modus Ponens:** Si $p \rightarrow q$ es verdad y $p$ es verdad, entonces $q$ es verdad.
+2.  **Modus Tollens:** Si $p \rightarrow q$ es verdad y $q$ es falso, entonces $p$ es falso.
+3.  **Silogismo Disyuntivo:** Si $p \vee q$ es verdad y $\neg p$ es verdad, entonces $q$ es verdad.
+
+
+
+---
+> **Análisis realizado de forma autónoma.**
+> *Este contenido sirve como base para el análisis crítico del artículo "Lógica Proposicional en Juan de Santo Tomás".*
