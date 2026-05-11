@@ -12,6 +12,11 @@ Consolidar el aprendizaje de lógica proposicional mediante la elaboración de u
 | **TERCERA UNIDAD** | 🔒 Pendiente | [INGRESAR](./UNIDAD_THREE/) |
 
 ---
+
+BIBLIOGRAFÍA DEL PORTAFOLIO:
+Mario E Cueva H. (2026). Introducción a la Lógica [Diapositivas]. Entorno Virtual de Aprendizaje (EVA).
+
+
 <div align="center">
 
 [⬅️ VOLVER A CARATULA](../README.md)
