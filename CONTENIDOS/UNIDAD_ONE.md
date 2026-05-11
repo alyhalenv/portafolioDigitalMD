@@ -4,10 +4,11 @@
 
 </div>
 
+# 1. 📖 Resumen teórico
 
 ---
 
-# 1. DEFINICIÓN DE PROPOSICIÓN
+# A. DEFINICIÓN DE PROPOSICIÓN
 Una proposición es el elemento fundamental de la lógica. Se define como una oración declarativa de la cual podemos afirmar, sin ambigüedad, que es **Verdadera (V)** o **Falsa (F)**. En computación, este concepto se conoce como *bit* (1 o 0).
 
 Para que una expresión sea proposición, debe tener un valor de verdad objetivo. Las preguntas, órdenes o exclamaciones no se consideran proposiciones porque no pueden ser calificadas como verdaderas o falsas.
@@ -21,7 +22,7 @@ Para que una expresión sea proposición, debe tener un valor de verdad objetivo
 
 ---
 
-# 2. TIPOS DE PROPOSICIONES
+# B. TIPOS DE PROPOSICIONES
 Las proposiciones se clasifican según su estructura y complejidad:
 
 * **Proposiciones Simples (Atómicas):** Son aquellas que expresan una sola idea y no tienen conectores lógicos.
@@ -50,7 +51,7 @@ Son operadores que permiten modificar o combinar proposiciones simples para crea
 
 ---
 
-# 4. TABLAS DE VERDAD
+# C. TABLAS DE VERDAD
 Las tablas de verdad son herramientas que muestran todos los posibles valores de verdad de proposiciones compuestas según los valores de sus proposiciones simples, se clasifican en:
 
 * **Tautología:** El resultado final es siempre Verdadero.
@@ -67,7 +68,7 @@ Las tablas de verdad son herramientas que muestran todos los posibles valores de
 
 ---
 
-# 5. PRINCIPALES LEYES LÓGICAS
+# D. PRINCIPALES LEYES LÓGICAS
 Las principales leyes lógicas son principios universales que garantizan la coherencia del razonamiento, incluyendo la identidad, no contradicción y el tercio excluido, entre otras equivalencias, por lo cual dentro de computación permiten optimizar códigos y algoritmos, pues nos dejan simplificar proposiciones grandes:
 
 
@@ -81,7 +82,7 @@ Las principales leyes lógicas son principios universales que garantizan la cohe
 
 ---
 
-# 6. REGLAS DE INFERENCIA
+# E. REGLAS DE INFERENCIA
 La inferencia es el proceso por el cual se obtienen conclusiones a partir de premisas. Si la estructura es correcta, la conclusión es válida. 
 
 <div align="center">
