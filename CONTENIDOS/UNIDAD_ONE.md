@@ -68,7 +68,7 @@ Las tablas de verdad son herramientas que muestran todos los posibles valores de
 ---
 
 # 5. PRINCIPALES LEYES LÓGICAS
-Las principales leyes lógicas son principios universales que garantizan la coherencia del razonamiento, incluyendo la identidad, no contradicción y el tercio excluido, entre otras equivalencias y reglas de inferencia, por lo cual dentro de computación permiten optimizar códigos y algoritmos, pues dejan simplificar proposiciones grandes:
+Las principales leyes lógicas son principios universales que garantizan la coherencia del razonamiento, incluyendo la identidad, no contradicción y el tercio excluido, entre otras equivalencias, por lo cual dentro de computación permiten optimizar códigos y algoritmos, pues nos dejan simplificar proposiciones grandes:
 
 
 <div align="center">
@@ -82,11 +82,10 @@ Las principales leyes lógicas son principios universales que garantizan la cohe
 ---
 
 # 6. REGLAS DE INFERENCIA
-La inferencia es el proceso por el cual se obtienen conclusiones a partir de premisas. Si la estructura es correcta, la conclusión es válida.
+La inferencia es el proceso por el cual se obtienen conclusiones a partir de premisas. Si la estructura es correcta, la conclusión es válida. 
 
-1. **Modus Ponens:** Si ocurre la causa, ocurre el efecto. 
-   * $[(p \rightarrow q) \wedge p] \rightarrow q$
-2. **Modus Tollens:** Si el efecto no ocurrió, la causa tampoco. 
-   * $[(p \rightarrow q) \wedge \neg q] \rightarrow \neg p$
-3. **Silogismo Disyuntivo:** Si tengo dos opciones y descarto una, la otra debe ser cierta.
-   * $[(p \vee q) \wedge \neg p] \rightarrow q$
+<div align="center">
+ 
+<img width="535" height="370" alt="image" src="https://github.com/user-attachments/assets/5c853994-5f33-4e4a-bd15-6e2bd2392185" />
+
+  </div>
