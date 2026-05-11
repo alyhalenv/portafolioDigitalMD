@@ -1,59 +1,75 @@
-# 🧠 Portafolio de Lógica Matemática - Unidad 1
+<div align="center">
+
+# 📘 PRIMERA UNIDAD: Fundamentos de Algoritmos y Programas
+
+---
+# 🎓 Portafolio de Lógica Matemática - Unidad 1
+
+Este portafolio recopila los fundamentos de la lógica proposicional y su aplicación técnica, tomando como referencia el análisis del pensamiento lógico formal.
+
+---
 
 ## 1. 📖 Resumen Teórico
 
 ### 🔹 Definición de Proposición
-Una proposición es una oración declarativa que tiene un valor de verdad bien definido: o es **verdadera (V)** o es **falsa (F)**, pero no ambas a la vez. En computación, esto equivale al sistema binario (1 y 0).
+Es una unidad de pensamiento que comunica un sentido completo y puede ser catalogada como **Verdadera (V)** o **Falsa (F)**. En nuestro estudio, utilizamos ejemplos clásicos para probar reglas:
+* **p:** "Algún hombre es caballo" (F)
+* **q:** "El hombre es piedra" (F)
 
 
 
 ### 🔹 Tipos de Proposiciones
-1.  **Simples (Atómicas):** No contienen conectores lógicos.
-    * *Ejemplo:* $p$: "Algún hombre es caballo".
-2.  **Compuestas (Moleculares):** Formadas por dos o más proposiciones simples unidas por conectores.
-    * *Ejemplo:* "Algún hombre es caballo **y** el hombre es piedra".
+* **Simples:** No tienen conectores (ej. "El hombre es piedra").
+* **Compuestas:** Unión de dos o más proposiciones mediante conectores (ej. "El hombre es piedra **y** algún hombre es caballo").
 
 ### 🔹 Conectores Lógicos
-Los conectores permiten operar con las proposiciones para formar estructuras más complejas:
+Son los símbolos que determinan la operación matemática entre las proposiciones:
 
-| Conector | Símbolo | Significado | Función |
-| :--- | :---: | :--- | :--- |
-| **Negación** | $\neg$ | "No" | Invierte el valor de verdad. |
-| **Conjunción** | $\wedge$ | "Y" | Verdadera solo si ambas son verdaderas. |
-| **Disyunción** | $\vee$ | "O" | Falsa solo si ambas son falsas. |
-| **Condicional** | $\rightarrow$ | "Si... entonces" | Falsa solo si el antecedente es V y el consecuente F. |
-| **Bicondicional** | $\leftrightarrow$ | "Si y solo si" | Verdadera si ambos valores son iguales. |
-
-
-
-### 🔹 Explicación de Tablas de Verdad
-Son representaciones gráficas que muestran todos los posibles escenarios de verdad de una proposición compuesta. Se calculan con la fórmula $2^n$ (donde $n$ es el número de proposiciones).
-
-* **Tautología:** Todo es verdadero.
-* **Contradicción:** Todo es falso.
-* **Contingencia:** Hay valores verdaderos y falsos.
+| Conector | Símbolo | Ejemplo Técnico |
+| :--- | :---: | :--- |
+| **Negación** | $\neg$ | $\neg p$ (No p) |
+| **Conjunción** | $\wedge$ | $p \wedge q$ (p y q) |
+| **Disyunción** | $\vee$ | $p \vee q$ (p o q) |
+| **Condicional** | $\rightarrow$ | $p \rightarrow q$ (Si p entonces q) |
+| **Bicondicional** | $\leftrightarrow$ | $p \leftrightarrow q$ (p si y solo si q) |
 
 
 
-### 🔹 Principales Leyes Lógicas (Leyes del Álgebra de Boole)
-Permiten simplificar expresiones complejas sin alterar su valor de verdad.
-* **Leyes de De Morgan:** * $\neg(p \wedge q) \equiv \neg p \vee \neg q$ (La negación de la conjunción es la disyunción de las negaciones).
-    * $\neg(p \vee q) \equiv \neg p \wedge \neg q$
-* **Ley de Doble Negación:** $\neg(\neg p) \equiv p$.
+### 🔹 Tablas de Verdad
+Son herramientas para determinar el valor de verdad de una proposición compuesta bajo todas las combinaciones posibles. 
+
+* **Análisis del Núcleo (Copulativa Negativa):** En mi defensa, utilizo la negación de la conjunción $\neg(p \wedge q)$. Esta solo es falsa cuando ambos componentes son verdaderos.
+
+| $p$ | $q$ | $p \wedge q$ | $\neg(p \wedge q)$ |
+| :---: | :---: | :---: | :---: |
+| V | V | V | **F** |
+| V | F | F | **V** |
+| F | V | F | **V** |
+| F | F | F | **V** |
 
 
 
-[Image of De Morgan's laws diagrams]
+[Image of truth table for NAND gate logic]
+
+
+### 🔹 Principales Leyes Lógicas
+Las leyes nos permiten simplificar procesos. La más importante para este análisis es la **Ley de De Morgan**:
+> $\neg(p \wedge q) \equiv \neg p \vee \neg q$
+*(La negación de una "y" equivale a una "o" de las partes negadas).*
+
+
+
+[Image of De Morgan's Laws diagrams]
 
 
 ### 🔹 Reglas de Inferencia
-Son esquemas lógicos que permiten llegar a una conclusión válida a partir de premisas.
-1.  **Modus Ponens:** Si $p \rightarrow q$ es verdad y $p$ es verdad, entonces $q$ es verdad.
-2.  **Modus Tollens:** Si $p \rightarrow q$ es verdad y $q$ es falso, entonces $p$ es falso.
-3.  **Silogismo Disyuntivo:** Si $p \vee q$ es verdad y $\neg p$ es verdad, entonces $q$ es verdad.
+Son los "pasos" legales para llegar a una conclusión:
+1. **Modus Ponens:** $[(p \rightarrow q) \wedge p] \rightarrow q$
+2. **Modus Tollens:** $[(p \rightarrow q) \wedge \neg q] \rightarrow \neg p$
+3. **Silogismo Disyuntivo:** $[(p \vee q) \wedge \neg p] \rightarrow q$
 
 
 
 ---
-> **Análisis realizado de forma autónoma.**
-> *Este contenido sirve como base para el análisis crítico del artículo "Lógica Proposicional en Juan de Santo Tomás".*
+**Declaración de Autoría:**
+*Análisis lógico realizado de forma autónoma por el estudiante. IA utilizada (Gemini) únicamente para soporte en la estructuración del formato Markdown.*
