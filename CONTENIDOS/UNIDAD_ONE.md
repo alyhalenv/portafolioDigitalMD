@@ -111,9 +111,20 @@ https://drive.google.com/drive/u/0/folders/1ka7kkoyu1sUbYFMmlZ0RnbmARvHDJQki
 
 # - Identificación de tautologías, contradicciones y contingencias  
 
+## Para ingresar a los ejercicios realizados, porfavor ingrese en el siguiente link, donde se ecuentran dentro del APE 5:
+(Se encuentran 3 ejercicios realizados en el APE 1 FASE 5, los dos se encuentran en la carpeta misma del DRIVE)
+
+https://drive.google.com/drive/u/0/folders/1oZ1RRswqEN3ZWORaTvweOBMnptJpX8Wo
+
 ---
 
 # - Aplicación de leyes proposicionales  
+
+## Para ingresar a los ejercicios realizados, porfavor ingrese en el siguiente link, donde se ecuentran dentro del APE 3:
+(Se encuentran ejercicios realizados en el APE 1 FASE 3, donde se utilizan leyes de proposiciones)
+
+
+https://drive.google.com/drive/u/0/folders/14kXnYeAcwXg8xXSOQQ786jgBP-GL-Y5U
 
 ---
 
