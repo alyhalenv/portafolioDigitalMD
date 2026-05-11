@@ -93,6 +93,21 @@ La inferencia es el proceso por el cual se obtienen conclusiones a partir de pre
 
 ---
 
+## - Traducción de lenguaje natural a simbólico  
+## - Construcción de tablas de verdad  
+Para ingresar a los ejercicios realizados, porfavor ingrese en el siguiente link:
+https://drive.google.com/drive/u/0/folders/1ka7kkoyu1sUbYFMmlZ0RnbmARvHDJQki
+
+## - Identificación de tautologías, contradicciones y contingencias  
+## - Aplicación de leyes proposicionales  
+## - Validación de argumentos  
+
+
+
+
+
+
+
 ## 🟣DECLARACIÓN DEL USO DE LA IA GENERATIVA 🤖🟣
 Para la creación de este portafolio virtual se uso Gemini (Google,2026) para ayudar con la mejora de la visualización del mismo en GitHub.
 
