@@ -133,9 +133,23 @@ https://drive.google.com/drive/u/0/folders/14kXnYeAcwXg8xXSOQQ786jgBP-GL-Y5U
 
 
 
+# 3. 🧠 Ejercicio aplicado (caso real o cotidiano)
 
 
+#4.  🔍 Reflexión personal
+Responder:
 
+- ¿Qué fue lo más difícil de entender?
+  En lo personal los temas con los cuales tuve complicaciones al empezar fueron las leyes de las proposiciones, y al incio el uso de estas para las simplificaciones de las expresiones lógicas, por lo cual me costó entender el desarollo de estas como las tablas de verdad, sin embargo con el desarrollo de los APES, y los ejercicios realizados en clase, he logrado comprender e identificar mejor los procesos que se realizan durante las soluciones de estas proposiciones lógicas.
+  
+- ¿Qué tema comprendí mejor?
+ El tema al que no tuve complicaiones fuertes, fueron la solución y aplicación de reglas de inferencia en la solución de premisas, la generación de diagramas de compuertas lógicas y la aplicación de las normal disyuntiva y conjuntiva.
+
+- ¿Cómo puedo aplicar la lógica en mi carrera? 
+La lógica dentro de la carrera de la computación la podemos aplicar para generar estructuras de  algoritmos en instrucciones exactas y precisas para que un computador pueda ejecutarlo de manera ordenada y que nos permita controlar su flujo de deciciones, por lo tanto el uso de leyes de proposiciones, reglas de inferencia y tablas de verdad, nos permiten aseguridad la veracidad de los datos y precisión en los cálculo, asi como la optimización de los procesos y el menor uso de los recursos.
+
+
+ 
 ## 🟣DECLARACIÓN DEL USO DE LA IA GENERATIVA 🤖🟣
 Para la creación de este portafolio virtual se uso Gemini (Google,2026) para ayudar con la mejora de la visualización del mismo en GitHub.
 
