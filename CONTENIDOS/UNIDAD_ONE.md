@@ -34,16 +34,16 @@ Las proposiciones se clasifican según su estructura y complejidad:
 
 ---
 
-# 3. CONECTORES LÓGICOS
+# C. CONECTORES LÓGICOS
 Son operadores que permiten modificar o combinar proposiciones simples para crear estructuras más complejas.
 
-| Operación | Símbolo | Significado | Explicación Teórica |
-| :--- | :---: | :--- | :--- |
-| **Negación** | $\neg$ | "No" | Cambia el valor de verdad al opuesto. |
-| **Conjunción** | $\wedge$ | "Y" | Solo es verdadera si AMBAS partes son verdaderas. |
-| **Disyunción** | $\vee$ | "O" | Es verdadera si al menos una parte es verdadera. |
-| **Condicional** | $\rightarrow$ | "Si... entonces" | Indica una relación de causa y efecto. |
-| **Bicondicional** | $\leftrightarrow$ | "Si y solo si" | Es verdadera solo si ambos tienen el mismo valor. |
+| Conector | Símbolo | Ejemplo Técnico |
+| :--- | :---: | :--- |
+| **Negación** | $\neg$ | $\neg p$ (No p) |
+| **Conjunción** | $\wedge$ | $p \wedge q$ (p y q) |
+| **Disyunción** | $\vee$ | $p \vee q$ (p o q) |
+| **Condicional** | $\rightarrow$ | $p \rightarrow q$ (Si p entonces q) |
+| **Bicondicional** | $\leftrightarrow$ | $p \leftrightarrow q$ (p si y solo si q) |
 
 **Ejemplo simple:** "Si estudio ($p$), entonces aprobaré ($q$)".
 
@@ -51,7 +51,7 @@ Son operadores que permiten modificar o combinar proposiciones simples para crea
 
 ---
 
-# C. TABLAS DE VERDAD
+# D. TABLAS DE VERDAD
 Las tablas de verdad son herramientas que muestran todos los posibles valores de verdad de proposiciones compuestas según los valores de sus proposiciones simples, se clasifican en:
 
 * **Tautología:** El resultado final es siempre Verdadero.
@@ -68,7 +68,7 @@ Las tablas de verdad son herramientas que muestran todos los posibles valores de
 
 ---
 
-# D. PRINCIPALES LEYES LÓGICAS
+# E. PRINCIPALES LEYES LÓGICAS
 Las principales leyes lógicas son principios universales que garantizan la coherencia del razonamiento, incluyendo la identidad, no contradicción y el tercio excluido, entre otras equivalencias, por lo cual dentro de computación permiten optimizar códigos y algoritmos, pues nos dejan simplificar proposiciones grandes:
 
 
@@ -82,7 +82,7 @@ Las principales leyes lógicas son principios universales que garantizan la cohe
 
 ---
 
-# E. REGLAS DE INFERENCIA
+# F. REGLAS DE INFERENCIA
 La inferencia es el proceso por el cual se obtienen conclusiones a partir de premisas. Si la estructura es correcta, la conclusión es válida. 
 
 <div align="center">
