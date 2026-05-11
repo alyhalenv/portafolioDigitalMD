@@ -55,4 +55,11 @@ Es un método mecánico para determinar el valor de verdad de una proposición c
 
 * **Tautología:** El resultado final es siempre Verdadero.
 * **Contradicción:** El resultado final es siempre
+  
+# TABLA DE VERDAD LOGICA PROPOSICIONAL
+
+<div align="center">
+
   <img width="677" height="421" alt="image" src="https://github.com/user-attachments/assets/2c2de455-ec70-4568-964a-7b7a03780dca" />
+
+  </div>
