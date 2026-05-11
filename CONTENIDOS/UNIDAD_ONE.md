@@ -87,6 +87,12 @@ La inferencia es el proceso por el cual se obtienen conclusiones a partir de pre
 
   </div>
 
+---
+
+# 2. 📊 Ejercicios resueltos 
+
+---
+
 ## 🟣DECLARACIÓN DEL USO DE LA IA GENERATIVA 🤖🟣
 Para la creación de este portafolio virtual se uso Gemini (Google,2026) para ayudar con la mejora de la visualización del mismo en GitHub.
 
