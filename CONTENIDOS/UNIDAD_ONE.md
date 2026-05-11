@@ -93,14 +93,31 @@ La inferencia es el proceso por el cual se obtienen conclusiones a partir de pre
 
 ---
 
-## - Traducción de lenguaje natural a simbólico  
-## - Construcción de tablas de verdad  
-Para ingresar a los ejercicios realizados, porfavor ingrese en el siguiente link:
+# - Traducción de lenguaje natural a simbólico  
+
+---
+
+# - Construcción de tablas de verdad  
+
+---
+
+## Para ingresar a los ejercicios realizados, porfavor ingrese en el siguiente link, donde se ecuentran dentro del APE 2:
+
+(De igual manera se encuentran los ejercicios por separado dentro de la carpeta del drive)
+
 https://drive.google.com/drive/u/0/folders/1ka7kkoyu1sUbYFMmlZ0RnbmARvHDJQki
 
-## - Identificación de tautologías, contradicciones y contingencias  
-## - Aplicación de leyes proposicionales  
-## - Validación de argumentos  
+---
+
+# - Identificación de tautologías, contradicciones y contingencias  
+
+---
+
+# - Aplicación de leyes proposicionales  
+
+---
+
+# - Validación de argumentos  
 
 
 
