@@ -7,7 +7,7 @@ Consolidar el aprendizaje de lógica proposicional mediante la elaboración de u
 
 | Unidad | Estado | Enlace |
 | :--- | :---: | :--- |
-| **PRIMERA UNIDAD** | 📖 En curso | [INGRESAR](./UNIDAD_ONE.md/) |
+| **PRIMERA UNIDAD** | 📖 En curso | [INGRESAR](./UNIDAD_ONE/) |
 | **SEGUNDA UNIDAD** | 🔒 Pendiente | [INGRESAR](./UNIDAD_TWO/) |
 | **TERCERA UNIDAD** | 🔒 Pendiente | [INGRESAR](./UNIDAD_THREE/) |
 
