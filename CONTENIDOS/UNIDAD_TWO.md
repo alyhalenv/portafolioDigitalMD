@@ -199,28 +199,66 @@ El estudio de los métodos de simplificación de expresiones lógicas constituye
 Los ejercicios y casos prácticos desarrollados en este portafolio tienen como finalidad demostrar la aplicación de los conceptos teóricos mediante la resolución paso a paso de problemas de simplificación lógica, fortaleciendo la comprensión del Álgebra Booleana y los Mapas de Karnaugh como herramientas fundamentales en el análisis y diseño de circuitos digitales.
 
 ---
+# 📂 Actividades del Curso
 
-## 📚 Contenido del Repositorio
-
-```text
-📂 Métodos-de-Simplificación
-│
-├── 📄 README.md
-├── 📁 Álgebra Booleana
-│   ├── Leyes Fundamentales
-│   ├── Propiedades
-│   ├── Teoremas de De Morgan
-│   └── Ejercicios
-│
-├── 📁 Mapas de Karnaugh
-│   ├── 2 Variables
-│   ├── 3 Variables
-│   ├── 4 Variables
-│   └── Ejercicios
-│
-└── 📁 Recursos
-```
+En esta sección se encuentran organizadas las actividades desarrolladas durante la unidad de **Métodos de Simplificación de Expresiones Lógicas**. Cada apartado contiene un enlace a la carpeta correspondiente en Google Drive, donde se encuentran almacenados los documentos, informes y evidencias elaboradas en grupo.
 
 ---
 
-> **Nota:** Este repositorio forma parte de un portafolio académico orientado al aprendizaje de los métodos de simplificación de expresiones lógicas, con énfasis en la comprensión de los principios del Álgebra Booleana y los Mapas de Karnaugh, así como en su aplicación práctica mediante ejercicios desarrollados paso a paso.
+## 📘 Actividad Autónoma (AA)
+
+**Descripción**
+
+Actividad desarrollada de forma colaborativa como parte del aprendizaje autónomo, orientada al fortalecimiento de los conocimientos teóricos y prácticos sobre los métodos de simplificación de expresiones lógicas.
+
+🔗 **Acceder a la actividad**
+
+[📁 Abrir carpeta en Google Drive](https://drive.google.com/drive/folders/1iiykdLlTB67eN8fgFDTshBXkDswdsZmc?usp=sharing)
+
+---
+
+## 👨‍🏫 Actividad en Contacto con el Docente (ACD)
+
+**Descripción**
+
+Actividad desarrollada bajo el acompañamiento del docente, en la cual se aplican los conceptos estudiados mediante ejercicios guiados y actividades colaborativas.
+
+🔗 **Acceder a la actividad**
+
+[📁 Abrir carpeta en Google Drive](https://drive.google.com/drive/folders/1GOt1Smb-XpQdjt8x0TdyeS56tesFkOxK?usp=sharing)
+
+---
+
+## 🧪 Aprendizaje Práctico Experimental (APE) – Fases 1 a 6
+
+**Descripción**
+
+Compilación de las actividades correspondientes al Aprendizaje Práctico Experimental (APE), desarrolladas de forma grupal durante las diferentes fases de la asignatura.
+
+### 📌 Fases 1 – 2
+
+🔗 **Acceder a la actividad**
+
+[📁 Abrir carpeta en Google Drive](https://drive.google.com/drive/folders/13KMqNHtzZcRpIYKlUffDRVZMZgucFQVp?usp=sharing)
+
+---
+
+### 📌 Fases 3 – 4
+
+🔗 **Acceder a la actividad**
+
+[📁 Abrir carpeta en Google Drive](https://drive.google.com/drive/folders/1H_gFvCIt_Nzbd0QyEe2apByZEfJNYCKh?usp=sharing)
+
+---
+
+### 📌 Fases 5 – 6
+
+🔗 **Acceder a la actividad**
+
+[📁 Abrir carpeta en Google Drive](https://drive.google.com/drive/folders/1IgN_8q0yWykL7_gXU-vEvT6DVpy43Swe?usp=sharing)
+
+---
+
+> **Nota:** Todas las carpetas de Google Drive contienen los documentos, informes, ejercicios y demás evidencias correspondientes a las actividades desarrolladas durante esta unidad de aprendizaje.
+
+---
