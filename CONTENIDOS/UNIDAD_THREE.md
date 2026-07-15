@@ -183,27 +183,75 @@ Los ejercicios y casos prácticos desarrollados en este portafolio tienen como f
 
 ---
 
-## 📚 Contenido del Repositorio
+# 📂 Actividades del Curso
 
-```text
-📂 Estructuras-No-Lineales
-│
-├── 📄 README.md
-├── 📁 Grafos
-│   ├── Definiciones
-│   ├── BFS
-│   ├── DFS
-│   └── Dijkstra
-│
-├── 📁 Árboles
-│   ├── Preorden
-│   ├── Inorden
-│   ├── Postorden
-│   └── Ejercicios
-│
-└── 📁 Recursos
-```
+En esta sección se encuentran organizadas las actividades desarrolladas durante el curso. Cada apartado contiene un enlace al repositorio correspondiente en Google Drive, donde se almacenan los archivos elaborados en grupo.
 
 ---
 
-> **Nota:** Este repositorio forma parte de un portafolio académico orientado al aprendizaje de las estructuras de datos no lineales, con énfasis en la comprensión conceptual y la aplicación práctica mediante ejercicios desarrollados paso a paso.
+## 📘 Actividad Autónoma (AA) N.º 1
+
+**Descripción**
+
+Actividad desarrollada de forma colaborativa como parte del aprendizaje autónomo.
+
+🔗 **Acceder a la actividad**
+
+https://drive.google.com/drive/folders/141aLS6RH6c24ANHnOIiZmLh7Z129pgoO?usp=sharing
+
+---
+
+## 👨‍🏫 Actividad en Contacto con el Docente (ACD) N.º 1
+
+**Descripción**
+
+Actividad desarrollada en conjunto bajo la orientación del docente.
+
+🔗 **Acceder a la actividad**
+
+https://drive.google.com/drive/folders/141aLS6RH6c24ANHnOIiZmLh7Z129pgoO?usp=sharing
+
+---
+
+## 📘 Actividad Autónoma (AA) N.º 2
+
+**Descripción**
+
+Actividad colaborativa correspondiente al segundo bloque de aprendizaje autónomo.
+
+🔗 **Acceder a la actividad**
+
+https://drive.google.com/drive/folders/1D6X6DXJbhCl9fTPWNPmDqGPP6csqv6NW?usp=sharing
+
+---
+
+## 👨‍🏫 Actividad en Contacto con el Docente (ACD) N.º 2
+
+**Descripción**
+
+Actividad desarrollada con el acompañamiento del docente durante el segundo bloque.
+
+🔗 **Acceder a la actividad**
+
+https://drive.google.com/drive/folders/1gPo8fWeAXHPXHzljmdlEmS_hvvhGpcSP?usp=sharing
+
+---
+
+## 🧩 Aprendizaje Basado en Problemas (ABP) – Fases 1 a 5
+
+**Descripción**
+
+Compilación de todas las fases correspondientes al Aprendizaje Basado en Problemas (ABP), desarrolladas de manera grupal.
+
+🔗 **Acceder a las actividades**
+
+https://drive.google.com/drive/folders/1C9iO0sYRAyfCKzEn0cXHgVuM-QCLw1Iw?usp=sharing
+
+---
+
+> **Nota:** Todos los enlaces dirigen a carpetas de Google Drive donde se encuentran almacenados los documentos, informes y demás evidencias correspondientes a cada actividad académica.
+
+
+---
+
+
