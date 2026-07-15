@@ -209,7 +209,7 @@ Actividad desarrollada en conjunto bajo la orientación del docente.
 
 🔗 **Acceder a la actividad**
 
-https://drive.google.com/drive/folders/141aLS6RH6c24ANHnOIiZmLh7Z129pgoO?usp=sharing
+https://drive.google.com/drive/folders/1WkWPefM13L0VUdmtz3_LdLer6mThym6C?usp=drive_link]
 
 ---
 
