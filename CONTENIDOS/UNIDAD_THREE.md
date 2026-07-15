@@ -111,6 +111,8 @@ Su estructura está conformada por:
 - 🌱 Una **raíz**.
 - 🌿 Nodos internos.
 - 🍃 Hojas (nodos sin hijos).
+<img width="233" height="173" alt="image" src="https://github.com/user-attachments/assets/88935394-54d2-4ce3-92de-031ca6cee993" />
+
 
 ---
 
