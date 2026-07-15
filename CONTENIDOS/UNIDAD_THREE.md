@@ -237,7 +237,7 @@ https://drive.google.com/drive/folders/1gPo8fWeAXHPXHzljmdlEmS_hvvhGpcSP?usp=sha
 
 ---
 
-## 🧩 Aprendizaje Basado en Problemas (ABP) – Fases 1 a 5
+## 🧩 Aprendizaje Practico Experimental (APE) – Fases 1 a 5
 
 **Descripción**
 
