@@ -54,6 +54,8 @@ La relación únicamente es válida desde el nodo origen hacia el nodo destino.
 - Existe un sentido de recorrido.
 - La relación es unidireccional.
 - Muy utilizados para representar flujos de información o dependencias.
+<img width="391" height="345" alt="image" src="https://github.com/user-attachments/assets/c1f92558-f627-4fdd-88b1-51d8cccbe4dd" />
+
 
 ---
 
