@@ -26,6 +26,7 @@ Formalmente se define como:
 ```text
 G = (V, E)
 ```
+<img width="600" height="432" alt="image" src="https://github.com/user-attachments/assets/ac3927a8-958b-4b15-b31b-6b229791f6ec" />
 
 Donde:
 
