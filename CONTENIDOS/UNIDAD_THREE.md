@@ -74,6 +74,7 @@ No existe una dirección definida entre los nodos.
 - La relación es recíproca.
 - Si un nodo está conectado con otro, el recorrido puede realizarse en ambos sentidos.
 - Son ampliamente utilizados para representar redes de comunicación o conexiones físicas.
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/d4026878-41bb-493e-a8ec-f8ebfa678111" />
 
 ---
 
